@@ -1,0 +1,14 @@
+.challange-section-container {
+  min-height: 90vh;
+  flex-direction: column;
+  text-align: center;
+  margin: 24px 0;
+}
+
+.challange-section-header {
+  text-align: center;
+  color: #fbf6fb;
+  font-family: "Bangers", cursive;
+  letter-spacing: 4px;
+  font-size: 64px;
+}
